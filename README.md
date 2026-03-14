@@ -1,17 +1,15 @@
 <table width="100%">
   <tr>
-    <td width="20%" align="left" style="border: none;">
-      <img src="https://github.com/AbdallahKhaledAmmar/AegisX-CSAAS-Project/raw/9d83c27c2ad3ac3043ec7ad421efadad589faeaf/WhatsApp%20Image%202026-02-23%20at%209.36.22%20PM.jpeg" width="180" alt="AegisX Logo" />
+    <td align="left" style="border: none;">
+      <img src="https://github.com/AbdallahKhaledAmmar/AegisX-CSAAS-Project/raw/9d83c27c2ad3ac3043ec7ad421efadad589faeaf/WhatsApp%20Image%202026-02-23%20at%209.36.22%20PM.jpeg" width="220" alt="AegisX Logo" />
     </td>
-    <td width="60%" align="center" style="border: none;">
+    <td align="center" style="border: none;">
       <img src="https://img.shields.io/badge/ASA%20BANK-SECURITY%20ARCHITECTURE-blue?style=for-the-badge&logo=target" /><br />
       <img src="https://img.shields.io/badge/DESIGN-14%20SECURITY%20ZONES-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/STATUS-v2.0%20APPROVED-blue?style=flat-square" /><br />
-      <img src="https://img.shields.io/badge/FRAMEWORK-NIST%20CSF%20%7C%20GDPR-green?style=flat-square" />
-      <img src="https://img.shields.io/badge/COMPLIANCE-ISO%2027001%20%7C%20PCI--DSS-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/STATUS-v2.0%20APPROVED-blue?style=flat-square" />
     </td>
-    <td width="30%" align="right" style="border: none;">
-      <img src="https://github.com/AbdallahKhaledAmmar/AegisX-CSAAS-Project/raw/9c135b0528a78bc7a35a836e2a464274597c2ff0/Green%20and%20Dark%20Blue%20Modern%20Gradient%20Banking%20Finance%20Logo.png" width="1000" alt="ASA Bank Logo" />
+    <td align="right" style="border: none;">
+      <img src="https://github.com/AbdallahKhaledAmmar/AegisX-CSAAS-Project/raw/9c135b0528a78bc7a35a836e2a464274597c2ff0/Green%20and%20Dark%20Blue%20Modern%20Gradient%20Banking%20Finance%20Logo.png" width="280" alt="ASA Bank Logo" />
     </td>
   </tr>
 </table>
