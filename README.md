@@ -13,7 +13,7 @@
 
 <div align="center">
   <h1>🛡️ ASA Bank: Cybersecurity Architecture Suite</h1>
-  <p><b>Lead Architect: Samara Risha</b></p>
+  <p><b>Lead Architect: Samara Risha - Abdallah Khaled - Aya reda</b></p>
   <i>A Comprehensive Defence-in-Depth Framework for Mission-Critical Banking Systems</i>
 </div>
 
@@ -88,5 +88,5 @@ This architecture is mapped against and complies with[cite: 536, 560]:
 ---
 
 <div align="center">
-  <p><b>Samara Risha</b><br />Computer Science | Cybersecurity Specialization</p>
+  <p><b>Samara Risha - Abdallah Khaled - Aya reda </b><br />Computer Science | Cybersecurity Specialization</p>
 </div>
