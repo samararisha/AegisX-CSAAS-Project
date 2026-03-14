@@ -67,16 +67,6 @@ The network is segmented into 14 functional zones to ensure minimal blast radius
 * **Monitoring**: Wazuh SIEM mapping alerts to **MITRE ATT&CK** (60% current coverage)[cite: 265, 297].
 * **Log Retention**: 6 months online (Targeting 12 months for PCI compliance in Q2 2026)[cite: 304, 307, 343].
 
----
-
-## 🚩 Resolution Register
-Key vulnerabilities from the initial design (v1.0) have been fully remediated[cite: 516, 517]:
-* **Resolved**: Implemented full DMZ segment and three-legged perimeter firewall[cite: 517].
-* **Resolved**: Established VLAN 50 (Server Management) for isolated OOB traffic[cite: 481, 517].
-* **Resolved**: Isolated PCI/ATM zones with dedicated Firewall (FW-05) and Gateway[cite: 517, 582].
-* **Resolved**: Confirmed and activated DR replication links for all databases[cite: 517, 589].
-
----
 
 ## 📜 Compliance Frameworks
 This architecture is mapped against and complies with[cite: 536, 560]:
