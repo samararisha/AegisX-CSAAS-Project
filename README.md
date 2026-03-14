@@ -16,8 +16,21 @@
 
 <div align="center">
   <h1>🛡️ ASA Bank: Security Architecture Suite</h1>
-  <p><b>Lead Architect: Abdallah Khaled - Samara Risha - Aya Reda</b></p>
+  <p><b>Lead Architects: Abdallah Khaled - Samara Risha - Aya Reda</b></p>
   <i>A comprehensive defense-in-depth framework for mission-critical banking systems.</i>
+</div>
+
+---
+
+## 📐 Network Security Architecture
+The following diagram illustrates the **14-zone defense-in-depth strategy**, ranging from the Internet Perimeter to the air-gapped Disaster Recovery site[cite: 447, 471].
+
+<div align="center">
+  <a href="https://github.com/samararisha/AegisX-CSAAS-Project/raw/0bf5040887f31a2bd823d0f79b79a686cbae6ddf/The%20Architecture.png" target="_blank">
+    <img src="https://github.com/samararisha/AegisX-CSAAS-Project/raw/0bf5040887f31a2bd823d0f79b79a686cbae6ddf/The%20Architecture.png" width="100%" alt="ASA Bank Security Architecture - Click to Zoom" />
+  </a>
+  <br />
+  <i>🔍 <b>Click the image above</b> to view the high-resolution architecture diagram.</i>
 </div>
 
 ---
